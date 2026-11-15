@@ -1,0 +1,31 @@
+t,estado_real,observacion,palabra,estado_viterbi,estado_posterior,P(pos|o1:T),P(neu|o1:T),P(neg|o1:T),tweet
+1,Neutral,Palabra Normal,normal,Neutral,Neutral,0.113,0.693,0.194,La verdad estoy normal #hoy
+2,Negativo,Palabra Triste,terrible,Negativo,Negativo,0.054,0.186,0.76,Hoy todo me parece terrible #mood
+3,Positivo,Palabra Triste,pésimo,Negativo,Negativo,0.053,0.179,0.768,"Sinceramente, pésimo #vida"
+4,Neutral,Palabra Normal,tranquilo,Neutral,Neutral,0.119,0.6,0.281,"Sinceramente, tranquilo #redes"
+5,Positivo,Palabra Alegre,increíble,Neutral,Positivo,0.401,0.317,0.282,Mi día fue increíble #semana
+6,Positivo,Palabra Triste,deprimente,Negativo,Negativo,0.09,0.206,0.704,Hoy todo me parece deprimente #semana
+7,Neutral,Palabra Triste,triste,Negativo,Negativo,0.065,0.188,0.747,Mi semana ha sido triste #hoy
+8,Neutral,Palabra Normal,ok,Neutral,Neutral,0.122,0.598,0.28,Hoy todo me parece ok #redes
+9,Neutral,Palabra Alegre,genial,Neutral,Positivo,0.388,0.322,0.29,La verdad estoy genial #redes
+10,Negativo,Palabra Triste,triste,Negativo,Negativo,0.068,0.193,0.739,Mi semana ha sido triste #semana
+11,Negativo,Palabra Triste,pésimo,Negativo,Negativo,0.029,0.124,0.847,Mi semana ha sido pésimo #vida
+12,Negativo,Palabra Triste,deprimente,Negativo,Negativo,0.045,0.174,0.781,La verdad estoy deprimente #mood
+13,Negativo,Palabra Normal,ok,Neutral,Neutral,0.143,0.629,0.228,La verdad estoy ok #vida
+14,Negativo,Palabra Alegre,fantástico,Positivo,Positivo,0.568,0.282,0.15,Qué situación tan fantástico #vida
+15,Neutral,Palabra Normal,ok,Neutral,Neutral,0.193,0.615,0.192,Mi semana ha sido ok #semana
+16,Negativo,Palabra Triste,terrible,Negativo,Negativo,0.15,0.283,0.567,"Sinceramente, terrible #semana"
+17,Neutral,Palabra Normal,común,Neutral,Neutral,0.23,0.629,0.141,La verdad estoy común #redes
+18,Neutral,Palabra Alegre,feliz,Positivo,Positivo,0.787,0.171,0.042,La verdad estoy feliz #hoy
+19,Positivo,Palabra Alegre,maravilloso,Positivo,Positivo,0.864,0.114,0.022,"Sinceramente, maravilloso #hoy"
+20,Positivo,Palabra Alegre,increíble,Positivo,Positivo,0.802,0.161,0.036,Hoy todo me parece increíble #mood
+21,Positivo,Palabra Normal,común,Neutral,Neutral,0.281,0.623,0.096,Mi semana ha sido común #vida
+22,Neutral,Palabra Normal,tranquilo,Neutral,Neutral,0.148,0.633,0.219,La verdad estoy tranquilo #vida
+23,Negativo,Palabra Triste,mal,Negativo,Negativo,0.135,0.275,0.59,Mi semana ha sido mal #mood
+24,Neutral,Palabra Normal,así así,Neutral,Neutral,0.216,0.63,0.155,Mi día fue así así #hoy
+25,Neutral,Palabra Alegre,fantástico,Positivo,Positivo,0.745,0.192,0.063,Qué situación tan fantástico #semana
+26,Positivo,Palabra Alegre,excelente,Positivo,Positivo,0.739,0.195,0.065,"Sinceramente, excelente #mood"
+27,Neutral,Palabra Normal,tranquilo,Neutral,Neutral,0.187,0.64,0.172,Hoy todo me parece tranquilo #redes
+28,Negativo,Palabra Triste,terrible,Negativo,Negativo,0.086,0.21,0.704,Qué situación tan terrible #semana
+29,Negativo,Palabra Triste,pésimo,Negativo,Negativo,0.112,0.224,0.664,Hoy todo me parece pésimo #hoy
+30,Neutral,Palabra Alegre,increíble,Positivo,Positivo,0.488,0.279,0.233,Mi semana ha sido increíble #redes
