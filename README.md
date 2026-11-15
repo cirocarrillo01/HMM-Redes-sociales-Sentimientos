@@ -175,12 +175,12 @@ Los resultados permiten explorar cómo las variaciones en las probabilidades de 
 
 ## 🔗 9. Enlaces de interés y entrega
 
-| Recurso               | Enlace                        |
-| --------------------- | ----------------------------- |
-| Repositorio GitHub    | Pendiente de agregar          |
-| Notebook Google Colab | Pendiente de agregar          |
-| Video pitch           | Pendiente de agregar          |
-| Documento académico   | `docs/Carrillo_Ciro_EA2.docx` |
+| Recurso               | Enlace                                                                                                |
+| --------------------- | ----------------------------------------------------------------------------------------------------- |
+| Repositorio GitHub    | [enlace](https://github.com/cirocarrillo01/HMM-Redes-sociales-Sentimientos)                           |
+| Notebook Google Colab | [enlace](https://colab.research.google.com/drive/1C26-AVE0zlahAEOblf0l5sBzCC7DlpyJ#scrollTo=f7a7cdd5) |
+| Video pitch           | Pendiente de agregar                                                                                  |
+| Documento académico   | `docs/Carrillo_Ciro_EA2.docx`                                                                         |
 
 ### Video pitch
 
